@@ -1,4 +1,4 @@
-[_TOC_]
+[__TOC__]
 
 # Apresentação
 Somos o Grupo 23 da POSTECH de Software Architecture. Vamos apresentar no Tech Challenge da fase 5.
